@@ -1,0 +1,25 @@
+img {
+    
+    
+    margin-top: 2cm;
+   
+ 
+}
+H1 {
+    font-size: small;
+    color: #630871;
+    
+}
+body {
+    
+    margin-left: 8cm;
+    margin-right: 8cm;
+}
+
+.imagen-contenida {
+    margin-top: 1cm;
+    background-color: rgb(112, 27, 27); 
+    padding: 30px;
+    display: inline-block; 
+}
+
