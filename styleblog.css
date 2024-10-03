@@ -5,15 +5,27 @@ img {
    
  
 }
+
 H1 {
-    font-size: small;
+    font-size: 10px;
     color: #630871;
-    
+    font-family: 'Sora', sans-serif;
+}
+H2 {
+    font-size: 18px;
+   
+    font-family: 'Sora', sans-serif;
 }
 body {
-    
+    font-family: 'Sora', sans-serif;
     margin-left: 8cm;
     margin-right: 8cm;
+    font-size: 14px;
+}
+p {
+    font-family: 'Sora', sans-serif;
+   
+    font-size: 12px; 
 }
 
 
